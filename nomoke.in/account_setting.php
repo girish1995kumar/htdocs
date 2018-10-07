@@ -86,6 +86,8 @@ else
    else
    {
     //Submit the form to the database
+        //Submit the form to the database
+
     $info_submit_query = mysql_query("UPDATE users SET first_name='$firstname', last_name='$lastname', bio='$bio' WHERE username='$user'");
     echo "<h1 class='text-center'>Your profile info has been updated!<h1>";
     header("Location: account_setting.php");
