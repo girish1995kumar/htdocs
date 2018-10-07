@@ -1,0 +1,48 @@
+[25-Aug-2018 08:15:54 UTC] PHP Notice:  Undefined index: start in /home/xippccmzzwgl/public_html/api/index.php on line 98
+[25-Aug-2018 08:15:54 UTC] PHP Notice:  Undefined index: username in /home/xippccmzzwgl/public_html/api/index.php on line 99
+[25-Aug-2018 08:15:54 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 99
+[25-Aug-2018 09:08:53 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[25-Aug-2018 14:23:40 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[25-Aug-2018 14:23:40 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[26-Aug-2018 11:14:22 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[26-Aug-2018 11:14:22 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[26-Aug-2018 11:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[26-Aug-2018 11:19:44 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[26-Aug-2018 11:43:09 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[26-Aug-2018 11:43:19 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[26-Aug-2018 11:49:24 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[26-Aug-2018 11:49:24 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[26-Aug-2018 12:36:19 UTC] PHP Notice:  Undefined index: query in /home/xippccmzzwgl/public_html/api/index.php on line 26
+[26-Aug-2018 12:36:19 UTC] PHP Notice:  Undefined index: query in /home/xippccmzzwgl/public_html/api/index.php on line 32
+[26-Aug-2018 12:57:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1130] Host 'localhost' is not allowed to connect to this MySQL server in /home/xippccmzzwgl/public_html/api/DB.php:7
+Stack trace:
+#0 /home/xippccmzzwgl/public_html/api/DB.php(7): PDO->__construct('mysql:host=127....', 'memez', '7570@Sbf7')
+#1 /home/xippccmzzwgl/public_html/api/index.php(5): DB->__construct('127.0.0.1', 'memez', 'memez', '7570@Sbf7')
+#2 {main}
+  thrown in /home/xippccmzzwgl/public_html/api/DB.php on line 7
+[27-Aug-2018 16:48:24 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[27-Aug-2018 16:48:25 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[29-Aug-2018 14:23:54 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[29-Aug-2018 14:23:54 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[31-Aug-2018 14:37:06 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[31-Aug-2018 14:37:06 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[01-Sep-2018 07:36:08 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[01-Sep-2018 07:36:08 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[02-Sep-2018 09:45:55 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[02-Sep-2018 09:45:55 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[03-Sep-2018 14:55:14 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[03-Sep-2018 14:55:14 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[04-Sep-2018 16:36:18 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[04-Sep-2018 16:36:18 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[05-Sep-2018 17:00:10 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[05-Sep-2018 17:00:11 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[08-Sep-2018 06:52:48 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[08-Sep-2018 06:52:48 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[09-Sep-2018 08:07:10 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[09-Sep-2018 08:07:10 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[10-Sep-2018 09:50:51 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[10-Sep-2018 09:50:51 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[11-Sep-2018 15:17:34 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[11-Sep-2018 15:17:34 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
+[13-Sep-2018 08:09:42 UTC] PHP Notice:  Undefined index: SNID in /home/xippccmzzwgl/public_html/api/index.php on line 67
+[13-Sep-2018 08:09:42 UTC] PHP Notice:  Undefined offset: 0 in /home/xippccmzzwgl/public_html/api/index.php on line 69
